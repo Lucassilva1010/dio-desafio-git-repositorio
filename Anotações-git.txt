@@ -6,4 +6,4 @@ Listar diretorios: ls
 Analisar Status do diretorio: git status
 Adicionar novo arquivo ao repositorio LOCAL: git add -A ou .
 Criar comentario sobre Arquivo: git commit -m "Coloque aqui o seu texto"
-Subir arquivo para o repositorio Remoto: git push oringin  main 
+Subir arquivo para o repositorio Remoto: git push origin  main 
